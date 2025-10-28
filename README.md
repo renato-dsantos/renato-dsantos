@@ -27,4 +27,4 @@
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Github Stats
-![AP03dev GitHub stats](https://github-readme-stats.vercel.app/api?username=renato-dsantos&show_icons=true&theme=)![AP03dev GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-dsantos&theme=&layout=compact)
+![AP03dev GitHub stats](https://github-readme-stats.vercel.app/api?username=renato-dsantos&show_icons=true&theme=true)![AP03dev GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=renato-dsantos&theme=&layout=compact)
